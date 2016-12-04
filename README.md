@@ -10,3 +10,6 @@ This is a simple 2D platformer I wrote in Java when I was 16 years old.
 
 ## Screenshots
 
+![Screenshot unable to load](/screenshots/screenshot0.png?raw=true)
+![Screenshot unable to load](/screenshots/screenshot1.png?raw=true)
+![Screenshot unable to load](/screenshots/screenshot2.png?raw=true)
