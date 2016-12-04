@@ -10,7 +10,7 @@ import org.pikaju.rectangle.level.entity.CheckPoint;
 
 public class LevelManager {
 
-	public static final int LEVEL_AMOUNT = 5;
+	public static final int LEVEL_AMOUNT = 3;
 	private Level level;
 	public int[] levelData;
 	public int currentLevel;
